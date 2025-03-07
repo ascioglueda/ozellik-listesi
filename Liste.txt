@@ -1,4 +1,5 @@
-Kullanıcı profili oluşturma
+Mesajlaşma özelliği 
 Arkadaşlık isteği gönderme
+Kullanıcı profili oluşturma
 Fotoğraf ve video paylaşımı yapma
 Kullanıcı yorum yapma
